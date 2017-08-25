@@ -1,0 +1,355 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="centrodanzaaccion.tk" resolutions="1x" timestamp="1503612636955">
+  <folder name="css">
+    <file name="site_global.css" crc="4045752718"/>
+    <file name="master_blog.css" crc="423500605" ref="calendario:blog:galería:contacto"/>
+    <file name="nomq_preview_master_blog.css" crc="3824530138" ref="calendario:blog:galería:contacto"/>
+    <file name="master_a-p_g_-maestra.css" crc="3863554683" ref="index:clases:sobre-cda:admin"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3935642626" ref="index:clases:sobre-cda:admin"/>
+    <file name="calendario.css" crc="3856624211" ref="calendario"/>
+    <file name="blog.css" crc="4124408597" ref="blog"/>
+    <file name="index.css" crc="447147426" ref="index"/>
+    <file name="nomq_index.css" crc="228817418" ref="index"/>
+    <file name="galer_a.css" crc="3953011009" ref="galería"/>
+    <file name="nomq_galer_a.css" crc="3824530138" ref="galería"/>
+    <file name="clases.css" crc="3976986710" ref="clases"/>
+    <file name="nomq_clases.css" crc="3801422419" ref="clases"/>
+    <file name="contacto.css" crc="316958780" ref="contacto"/>
+    <file name="sobre-cda.css" crc="4165865170" ref="sobre-cda"/>
+    <file name="nomq_sobre-cda.css" crc="349248901" ref="sobre-cda"/>
+    <file name="admin.css" crc="3914642864" ref="admin"/>
+    <file name="nomq_admin.css" crc="3996916045" ref="admin"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="museutils.js" crc="4216313831" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="whatinput.js" crc="86476730" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:clases:sobre-cda:admin"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="webpro.js" crc="4143865194" ref="index:clases:sobre-cda:admin"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:clases:sobre-cda:admin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:clases:sobre-cda:admin"/>
+    <file name="require.js" crc="3951022091" ref="index:clases:sobre-cda:blog:contacto:calendario:galería:admin"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="clases"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="clases"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="clases"/>
+    <file name="touchswipe.js" crc="4200445185" ref="clases"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4203169719" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:clases:sobre-cda:admin"/>
+    <file name="detalle accion.png" crc="171468042" seo="true" ref="index:clases:sobre-cda:admin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="white-bricks-wall-texture_1203-1665.jpg" crc="55684396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naranja linea.jpg" crc="440822705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="localizacion rr.png" crc="202083973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profes rr.png" crc="466311081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coraon rr.png" crc="3904382082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parking rr.png" crc="4036150374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dinero rr.png" crc="4239269380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smiley-1635449_960_720.png" crc="3791607772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="atencion rr.png" crc="93977095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dance rr.png" crc="4175443435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musculo rr.png" crc="260272330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook tt.png" crc="125296358" seo="true" ref="index:clases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cuero blanco hexa colorrr.png" crc="4229837474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram tt.png" crc="265895184" seo="true" ref="index:clases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="youtube tt.png" crc="88798963" seo="true" ref="index:clases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="whats tt.png" crc="102619488" seo="true" ref="index:clases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="correo tt.png" crc="4004541057" seo="true" ref="index:clases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cuero blanco hexa colorrr240x160.png" crc="4165539517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="detalle accion-crop-u1670.png" crc="4109799343" seo="true" ref="index:clases:sobre-cda:admin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="abrir.svg" crc="3881540917" ref="index:sobre-cda"/>
+    <file name="abrir_poster_u2011.png" crc="229763918" ref="index:sobre-cda"/>
+    <file name="cerrar.svg" crc="94584885" ref="index:sobre-cda"/>
+    <file name="cerrar_poster_u2041.png" crc="66643228" ref="index:sobre-cda"/>
+    <file name="cuero blanco hexa colorrr126x84.png" crc="3826376305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-bricks-wall-texture_1203-1665320x214.jpg" crc="4083703507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuero blanco hexa colorrr80x54.png" crc="175564168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contemp cua.jpg" crc="3856627562" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="ballet cua.jpg" crc="127342149" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="dacesport cua.jpg" crc="4068519145" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="danza.png" crc="199261396" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="flamenco cua.jpg" crc="522527825" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="wellness fitness.png" crc="516272486" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="prácticas.png" crc="105094972" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cover-horses-in-the-sky-by-rami-beer-kibbutz-contemprary-dance-company00_00_01_12imagen fija001.jpg" crc="4051837756" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cover-horses-in-the-sky-by-rami-beer-kibbutz-contemprary-dance-company00_00_01_12imagen fija001960x261.jpg" crc="273586031" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cover-horses-in-the-sky-by-rami-beer-kibbutz-contemprary-dance-company00_00_01_12imagen fija001504x137.jpg" crc="4133797473" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="cover-horses-in-the-sky-by-rami-beer-kibbutz-contemprary-dance-company00_00_01_12imagen fija001320x87.jpg" crc="3975402496" seo="true" ref="clases">
+      <caption webpage="clases" alt=""/>
+    </file>
+    <file name="sigur_rs_-_valtari_official_music_video(youtubecom)00_06_32_01imagen fija001.jpg" crc="102823326" seo="true" ref="sobre-cda">
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="783b356cc39b74fe942828a9e887db3f.gif" crc="461767649" seo="true" ref="sobre-cda">
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="sigur_rs_-_valtari_official_music_video(youtubecom)00_06_32_01imagen fija001663x373.jpg" crc="4069951283" seo="true" ref="sobre-cda">
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="sigur_rs_-_valtari_official_music_video(youtubecom)00_06_32_01imagen fija001658x370.jpg" crc="123343734" seo="true" ref="sobre-cda">
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+    <file name="sigur_rs_-_valtari_official_music_video(youtubecom)00_06_32_01imagen fija001418x235.jpg" crc="3836341227" seo="true" ref="sobre-cda">
+      <caption webpage="sobre-cda" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4071020617" seo="true" mt="1503438763523" redirect="true"/>
+  <file name="clases.html" crc="261654543" seo="true" mt="1503352732255" redirect="true"/>
+  <file name="sobre-cda.html" crc="3864988685" seo="true" mt="1503353059708" redirect="true"/>
+  <file name="blog.html" crc="227040930" seo="true" mt="1503484419055" redirect="true"/>
+  <file name="contacto.html" crc="371634553" seo="true" mt="1503436854993" redirect="true"/>
+  <file name="calendario.html" crc="441307195" seo="true" mt="1503436820806" redirect="true"/>
+  <file name="galería.html" crc="172646404" seo="true" mt="1503436750072" redirect="true"/>
+  <file name="admin.html" crc="4166893744" seo="true" mt="1503607674673" redirect="true"/>
+</manifest>
